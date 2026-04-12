@@ -1,0 +1,202 @@
+[
+  {
+    "id": "brevet_noblesse",
+    "slug": "brevet-de-noblesse",
+    "name": "Brevet de Noblesse",
+    "description": "Première entrée remarquée au Palais de Versailles.",
+    "icon": "military_tech",
+    "category": "Identity",
+    "rewardReputation": 10,
+    "rewardInfluence": 100
+  },
+  {
+    "id": "plume_bronze",
+    "slug": "plume-de-bronze",
+    "name": "Plume de Bronze",
+    "description": "A publié 5 proclamations dans le Grand Hall.",
+    "icon": "edit",
+    "category": "Social",
+    "rewardReputation": 20,
+    "rewardInfluence": 200
+  },
+  {
+    "id": "plume_argent",
+    "slug": "plume-d-argent",
+    "name": "Plume d'Argent",
+    "description": "A publié 25 proclamations dans le Grand Hall.",
+    "icon": "pen_size_2",
+    "category": "Social",
+    "rewardReputation": 100,
+    "rewardInfluence": 1000
+  },
+  {
+    "id": "plume_or",
+    "slug": "plume-d-or",
+    "name": "Plume d'Or",
+    "description": "A publié 50 proclamations dans le Grand Hall.",
+    "icon": "history_edu",
+    "category": "Social",
+    "rewardReputation": 500,
+    "rewardInfluence": 5000
+  },
+  {
+    "id": "voix_versailles",
+    "slug": "voix-de-versailles",
+    "name": "Voix de Versailles",
+    "description": "A publié 100 proclamations. Votre voix résonne dans tout le palais.",
+    "icon": "campaign",
+    "category": "Social",
+    "rewardReputation": 2000,
+    "rewardInfluence": 20000
+  },
+  {
+    "id": "mecene_discret",
+    "slug": "mecene-discret",
+    "name": "Mécène Discret",
+    "description": "A accordé sa faveur (like) à 10 proclamations.",
+    "icon": "favorite",
+    "category": "Kindness",
+    "rewardReputation": 50,
+    "rewardInfluence": 500
+  },
+  {
+    "id": "grand_philanthrope",
+    "slug": "grand-philanthrope",
+    "name": "Grand Philanthrope",
+    "description": "A accordé sa faveur à 50 proclamations.",
+    "icon": "volunteer_activism",
+    "category": "Kindness",
+    "rewardReputation": 200,
+    "rewardInfluence": 2000
+  },
+  {
+    "id": "favori_cour",
+    "slug": "favori-de-la-cour",
+    "name": "Favori de la Cour",
+    "description": "A reçu 10 faveurs sur ses proclamations.",
+    "icon": "star",
+    "category": "Reputation",
+    "rewardReputation": 50,
+    "rewardInfluence": 500
+  },
+  {
+    "id": "idole_salons",
+    "slug": "idole-des-salons",
+    "name": "Idole des Salons",
+    "description": "A reçu 100 faveurs sur ses proclamations.",
+    "icon": "auto_awesome",
+    "category": "Reputation",
+    "rewardReputation": 500,
+    "rewardInfluence": 5000
+  },
+  {
+    "id": "legende_vivante",
+    "slug": "legende-vivante",
+    "name": "Légende Vivante",
+    "description": "A reçu 500 faveurs. Votre nom est dans toutes les bouches.",
+    "icon": "diamond",
+    "category": "Reputation",
+    "rewardReputation": 5000,
+    "rewardInfluence": 50000
+  },
+  {
+    "id": "sujet_scandale",
+    "slug": "sujet-du-scandale",
+    "name": "Sujet du Scandale",
+    "description": "A été nommé par le Duc de Saint-Simon dans la Gazette.",
+    "icon": "visibility",
+    "category": "Gazette",
+    "rewardReputation": 300,
+    "rewardInfluence": 1000
+  },
+  {
+    "id": "habitue_palais",
+    "slug": "habitue-du-palais",
+    "name": "Habitué du Palais",
+    "description": "S'est connecté 5 fois à la Cour Royale.",
+    "icon": "meeting_room",
+    "category": "Identity",
+    "rewardReputation": 100,
+    "rewardInfluence": 1000
+  },
+  {
+    "id": "pilier_empire",
+    "slug": "pilier-de-l-empire",
+    "name": "Pilier de l'Empire",
+    "description": "A atteint le rang prestigieux de Grand Duc ou Grande Duchesse.",
+    "icon": "castle",
+    "category": "Rank",
+    "rewardReputation": 1000,
+    "rewardInfluence": 10000
+  },
+  {
+    "id": "oiseau_nuit",
+    "slug": "oiseau-de-nuit",
+    "name": "Oiseau de Nuit",
+    "description": "A publié une proclamation entre minuit et 5h du matin.",
+    "icon": "dark_mode",
+    "category": "Misc",
+    "rewardReputation": 50,
+    "rewardInfluence": 500
+  },
+  {
+    "id": "aube_royale",
+    "slug": "aube-royale",
+    "name": "Aube Royale",
+    "description": "A publié une proclamation entre 5h et 8h du matin.",
+    "icon": "wb_sunny",
+    "category": "Misc",
+    "rewardReputation": 50,
+    "rewardInfluence": 500
+  },
+  {
+    "id": "discret_courtisan",
+    "slug": "discret-courtisan",
+    "name": "Discret Courtisan",
+    "description": "A osé pousser la porte du Boudoir pour la première fois.",
+    "icon": "sensor_door",
+    "category": "Identity",
+    "rewardReputation": 50,
+    "rewardInfluence": 500
+  },
+  {
+    "id": "maitre_etiquette",
+    "slug": "maitre-de-l-etiquette",
+    "name": "Maître de l'Étiquette",
+    "description": "A complété son profil (nom personnalisé scellé).",
+    "icon": "assignment_turned_in",
+    "category": "Identity",
+    "rewardReputation": 100,
+    "rewardInfluence": 1000
+  },
+  {
+    "id": "protecteur_secrets",
+    "slug": "protecteur-des-secrets",
+    "name": "Protecteur des Secrets",
+    "description": "A envoyé un premier pli scellé en toute discrétion.",
+    "icon": "mail",
+    "category": "Social",
+    "rewardReputation": 200,
+    "rewardInfluence": 2000
+  },
+  {
+    "id": "arbitre_gout",
+    "slug": "arbitre-du-gout",
+    "name": "Arbitre du Goût",
+    "description": "A atteint une réputation supérieure à 1000 points.",
+    "icon": "gavel",
+    "category": "Reputation",
+    "rewardReputation": 1000,
+    "rewardInfluence": 10000
+  },
+  {
+    "id": "soleil_versailles",
+    "slug": "soleil-de-versailles",
+    "name": "Soleil de Versailles",
+    "description": "Détient toutes les récompenses de la Cour. Vous êtes l'astre du palais.",
+    "icon": "brightness_high",
+    "category": "Mastery",
+    "rewardReputation": 10000,
+    "rewardInfluence": 100000
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "currentUser": {
+    "id": "user-123",
+    "name": "Le Chevalier",
+    "role": "Directoire",
+    "influence": 12450,
+    "reputation": 142,
+    "avatar": "/assets/noble-avatar-default.png",
+    "preferences": {
+      "grainEffect": true,
+      "notifications": true,
+      "anonymousMode": false
+    }
+  },
+  "nobleRanks": [
+    { "level": 1, "title": "Débutant de la Cour", "requirement": 0, "icon": "celebration" },
+    { "level": 2, "title": "Baron des Brumes", "requirement": 5000, "icon": "military_tech" },
+    { "level": 3, "title": "Chevalier de l'Aube", "requirement": 10000, "icon": "gavel" },
+    { "level": 4, "title": "Marquis du Levant", "requirement": 25000, "icon": "workspace_premium" },
+    { "level": 5, "title": "Duc de Versailles", "requirement": 50000, "icon": "diamond" }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "author": "Le Vicomte d'Artois",
+      "role": "Cercle des Ambassadeurs",
+      "time": "2h",
+      "avatar": "/assets/noble-avatar-default.png",
+      "content": "Les rumeurs courent dans les couloirs du Palais. Il se dit que l'invité mystère n'est autre que le Prince de...",
+      "likes": 1205,
+      "comments": 48
+    },
+    {
+      "id": 2,
+      "author": "Marquis de Lafayette",
+      "role": "Légion d'Honneur",
+      "time": "Hier",
+      "avatar": "/assets/noble-avatar-default.png",
+      "content": "L'élégance est une arme plus tranchante que n'importe quelle épée de duel...",
+      "likes": 854,
+      "comments": 12
+    }
+  ],
+  "gazetteArticles": [
+    {
+      "id": "1",
+      "category": "Bruit de l'Antichambre",
+      "title": "Le Collier de la Discorde",
+      "snippet": "Une Reine à Trianon ? On murmure dans les antichambres que la Comtesse aurait fait l'acquisition secrète d'une parure...",
+      "content": "On murmure dans les antichambres que la Comtesse aurait fait l'acquisition secrète d'une parure de diamants valant plus qu'un régiment de hussards. Les coffres de la Couronne semblent étrangement légers ce matin... La question n'est plus de savoir qui a payé, mais qui a porté le collier lors du dernier bal masqué. Certaines voix s'élèvent déjà contre cette extravagance alors que le peuple gronde aux portes de la ville. Le Roi, quant à lui, garde un silence impérial derrière les portes closes de son étude.",
+      "author": "L'Inconnu de l'Escalier",
+      "time": "Hier à minuit",
+      "image": "/assets/gazette-lead.png"
+    },
+    {
+      "id": "2",
+      "category": "Note d'Espionnage",
+      "title": "Le Rendez-vous de l'Orangerie",
+      "snippet": "Une ombre masquée a été aperçue franchissant les grilles à minuit sonnant...",
+      "content": "Une ombre masquée a été aperçue franchissant les grilles à minuit sonnant. La silhouette, élégante mais furtive, portait le sceau du Grand Chambellan. S'agirait-il d'un rendez-vous galant ou d'une affaire d'État ? Les espions de Sa Majesté sont sur les dents. Les témoins affirment avoir entendu des chuchotements en langue étrangère, ce qui alimente les théories d'une conspiration venue des terres de l'Est.",
+      "author": "L'Observateur",
+      "time": "Il y a 2 heures",
+      "image": "/assets/gazette-lead.png"
+    }
+  ],
+  "clubs": [
+    {
+      "id": "cabinet-noir",
+      "name": "Le Cabinet Noir",
+      "description": "Ici se décident les destinées des grands domaines.",
+      "icon": "gavel",
+      "minLevel": 4,
+      "messages": [
+        { "author": "Duc de Richelieu", "text": "Le blé manque, nous devons agir avant que la révolte n'atteigne le Trianon.", "time": "10:15" },
+        { "author": "Comtesse De Polignac", "text": "Doublons les gardes. La peur est la meilleure des paix.", "time": "10:20" }
+      ]
+    },
+    {
+      "id": "lotus-bleu",
+      "name": "L'Ordre du Lotus Bleu",
+      "description": "Société secrète dédiée aux plaisirs de la table et des arts.",
+      "icon": "local_library",
+      "minLevel": 2,
+      "messages": [
+        { "author": "Le Poète", "text": "Le vin d'hier était une ode à la vie.", "time": "02:00" }
+      ]
+    }
+  ],
+  "threads": {
+    "comtesse-v": [
+      {
+        "sent": false,
+        "text": "Monsieur, les ombres de la Galerie des Glaces s'étirent. J'attends des nouvelles du convoi venu de l'Est. Veillez à ce que nul œil ne voie le sceau sur le registre.",
+        "time": "14 Octobre, 22:15"
+      },
+      {
+        "sent": true,
+        "text": "Ne craignez rien, Madame. Les documents sont scellés dans le coffre de cèdre. Le Roi ne soupçonne rien de notre entreprise. Je vous retrouverai à l'heure habituelle.",
+        "time": "Hier, 01:04"
+      }
+    ]
+  },
+  "trends": [
+    { "id": 1, "label": "Influence", "headline": "Hausse de la Maison d'Orléans", "up": true },
+    { "id": 2, "label": "Réputation", "headline": "Chute du Clan Lafayette", "up": false },
+    { "id": 3, "label": "Faveur Royale", "headline": "Grâce accordée au Comte de S.", "up": true }
+  ]
+}
